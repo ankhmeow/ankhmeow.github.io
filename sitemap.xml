@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ankhmeow.github.io/life/music/index.html</loc>
+    
+    <lastmod>2024-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://ankhmeow.github.io/personal/love/index.html</loc>
     
     <lastmod>2024-03-07</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>http://ankhmeow.github.io/posts/567b4521.html</loc>
-    
-    <lastmod>2024-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://ankhmeow.github.io/life/music/index.html</loc>
     
     <lastmod>2024-03-07</lastmod>
     
